@@ -1,0 +1,15 @@
+table,thead{
+    border:1px solid white;
+    border-collapse: collapse;
+    color:white;
+}
+td{
+    padding:5px;
+}
+caption{
+    color:white;
+}
+div{
+    background-color: black;
+    padding:10px;
+}
